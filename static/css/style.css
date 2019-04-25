@@ -187,7 +187,7 @@ a:focus {
 
 
 #loaderInner {
-    background:#ffffff url(../img/spinner.gif) center center no-repeat;
+    background:#ffffff url(/static/img/spinner.gif) center center no-repeat;
     height: 60px;
     left: 50%;
     margin: -50px 0 0 -50px;
@@ -314,7 +314,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	background: url(../img/slider-bg-new.jpg) no-repeat top center;
+	background: url(/static/img/slider-bg-color.jpg) no-repeat top center;
     background-size: cover;
     height: auto;
 }
@@ -579,7 +579,7 @@ Parallax
 ============================= */
 
 #parallax1{
-	background-image: url(../img/parallax/1.jpg);
+	background-image: url(/static/img/parallax/1.jpg);
 }
 
 #parallax1:after {
@@ -596,7 +596,7 @@ Parallax
 
 
 #parallax2{
-	background-image: url(../img/parallax/2.jpg);
+	background-image: url(/static/img/parallax/2.jpg);
 
 }
 
